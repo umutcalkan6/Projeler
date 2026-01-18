@@ -9,6 +9,6 @@ At Yarışı Oyunu V1
 -Bakiye Sistemi Eklendi
 At Yarışı Oyunu V2
 -Ayak Mantığı Eklendi
--Gerçek Hayattaki Ganyan Mantığı Eklendi
+-Gerçek Hayattaki Bahis Mantığı Eklendi
 -At İstatistikleri Eklendi
--Oyndaki Bakiyenin Toplanıp Ganyan Oranına Göre Dağıtılması Eklendi(Para Havuzu)
+-Oyundaki Bakiyenin Toplanıp Ganyan Oranına Göre Dağıtılması Eklendi(Para Havuzu)
