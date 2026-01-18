@@ -1,0 +1,42 @@
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\bin\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\bin\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\bin\Debug\Atyarışı.pdb
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.csproj.AssemblyReference.cache
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.Form1.resources
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.Properties.Resources.resources
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.csproj.GenerateResource.cache
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.pdb
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.Form2.resources
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.Form3.resources
+C:\Users\UMUT\Desktop\Atyarışı\Atyarışı\obj\Debug\Atyarışı.SozlesmeForm.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\bin\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\bin\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\bin\Debug\Atyarışı.pdb
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.csproj.AssemblyReference.cache
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.Form1.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.Form2.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.Form3.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.Properties.Resources.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.SozlesmeForm.resources
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.csproj.GenerateResource.cache
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı - Kopya\Atyarışı\obj\Debug\Atyarışı.pdb
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\bin\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\bin\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\bin\Debug\Atyarışı.pdb
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.csproj.AssemblyReference.cache
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.exe.config
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.Form1.resources
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.Form2.resources
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.Form3.resources
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.Properties.Resources.resources
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.SozlesmeForm.resources
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.csproj.GenerateResource.cache
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.exe
+C:\Users\UMUT\Desktop\Atyarışı - Final\Atyarışı\obj\Debug\Atyarışı.pdb
