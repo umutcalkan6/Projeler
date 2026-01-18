@@ -1,7 +1,7 @@
 # Projeler
 Nasıl Çalıştırılır?
 Projenin çalıştırılması için visual studionun kurulu olması gereklidir.Projenin tüm dosyaları indirildikten sonra .sln dosyasına tıklandığında proje çalışır.
-Sürüm Geçmişi
+Sürüm Geçmişi:
 At Yarışı Oyunu V1
 -Form Tasarımları Eklendi
 -Ön Sözleşme Eklendi
